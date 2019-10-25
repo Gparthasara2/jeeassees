@@ -1,0 +1,5 @@
+com\Conn\ConnectionManager.class
+com\CraigsList\event.class
+com\CraigsList\JobServlet.class
+com\CraigsList\jobAd.class
+com\CraigsList\EventServlet.class
